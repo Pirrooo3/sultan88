@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://sultan88.fanfoot.ca/sitemap.xml
+Sitemap: https://sultan88.fanfoot.ca/sitemap.xml
