@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://dewaslot88.zefi.network/sitemap.xml
+Sitemap: http://sultan88.fanfoot.ca/sitemap.xml
